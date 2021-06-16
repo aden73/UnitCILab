@@ -37,7 +37,7 @@ public class CILabTest {
     }
 
     @Test
-    public void detectCapitalUseTest3() {
+    public void detectCapitalUseTest4() {
         myString.setString("oRange");
         assertFalse(myString.detectCapitalUse());
     }
